@@ -1,4 +1,3 @@
-# victor-tech
 <!-- Profile Banner -->
 <p align="center">
   <img src="https://via.placeholder.com/900x200.png?text=Hi+I'm+Victor+Adomako" alt="Victor Adomako - Banner" />
@@ -12,11 +11,11 @@
 
 ## 👨‍💻 About Me  
 
-I’m a learner in the **ALX ProDev Frontend program**, passionate about **problem-solving** and **continuous growth**.  
-I explore how **technology simplifies life and creates real impact**.  
+I’m currently part of the **ALX ProDev Frontend program**, passionate about **problem-solving** and **continuous growth**.  
+I love exploring how **technology simplifies life and creates real impact**.  
 
-✨ **My aim:** To become a **well-rounded software engineer** with strong **problem-solving** and **collaboration** skills.  
-💡 I want to build **impactful solutions**, contribute to **innovative projects**, and eventually **mentor others**.  
+✨ **My aim:** To grow into a **well-rounded software engineer** with strong **problem-solving** and **collaboration** skills.  
+💡 My mission is to build **impactful solutions**, contribute to **innovative projects**, and eventually **mentor others**.  
 
 ---
 
@@ -40,26 +39,22 @@ I explore how **technology simplifies life and creates real impact**.
 
 ---
 
-## 🌟 Featured Projects  
+## 📌 Pinned Projects  
 
-### 🍲 DishDiscover (Recipe Finder)  
-🔹 Built with **React, Tailwind, TheMealDB API**  
-🔹 Discover, search, and explore new recipes with ease  
-🔹 [🔗 Live Demo](#) | [💻 Repo](#)
+<p align="center">
+  <a href="https://github.com/{{YOUR_USERNAME}}/dishdiscover">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username={{YOUR_USERNAME}}&repo=dishdiscover&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/{{YOUR_USERNAME}}/fitness-tracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username={{YOUR_USERNAME}}&repo=fitness-tracker&theme=tokyonight" />
+  </a>
+</p>
 
----
-
-### 🏋️ Fitness Tracker  
-🔹 Built with **React, Tailwind, WGER API**  
-🔹 Log workouts, track progress, and stay motivated  
-🔹 [🔗 Live Demo](#) | [💻 Repo](#)
-
----
-
-### 🔍 GitHub User Search  
-🔹 Built with **React, GitHub API**  
-🔹 Search GitHub users and explore profile details  
-🔹 [🔗 Live Demo](#) | [💻 Repo](#)
+<p align="center">
+  <a href="https://github.com/{{YOUR_USERNAME}}/github-user-search">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username={{YOUR_USERNAME}}&repo=github-user-search&theme=tokyonight" />
+  </a>
+</p>
 
 ---
 
@@ -75,7 +70,7 @@ I’d love to collaborate on **real-world impact projects**, such as:
 - 🏃 **Health & fitness tools** that empower individuals  
 - 🏪 **Small business solutions** that simplify operations  
 
-Working in a team helps me **sharpen my technical skills** and grow in **collaboration & problem-solving**.  
+Teamwork sharpens my **technical skills** while strengthening **collaboration & problem-solving**.  
 
 ---
 
@@ -106,14 +101,11 @@ Working in a team helps me **sharpen my technical skills** and grow in **collabo
 ## 📫 Let’s Connect  
 
 <p align="center">
-  <a href="mailto:{{YOUR_EMAIL}}">
+  <a href="mailto:victoradomako10@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff" alt="Email" />
   </a>
-  <a href="{{LINKEDIN_URL}}">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn" />
-  </a>
-  <a href="{{PORTFOLIO_URL}}">
-    <img src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=fff" alt="Portfolio" />
   </a>
 </p>
 
