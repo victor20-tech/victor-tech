@@ -1,11 +1,11 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/900x200.png?text=Hi+I'm+Victor+Adomako" alt="Victor Adomako - Banner" />
+  <img src="https://img.shields.io/badge/Hi!%20I'm%20Victor%20Adomako-000000?style=for-the-badge&logo=github&logoColor=white" alt="Victor Adomako - Banner" />
 </p>
 
 <!-- Greeting -->
 <h1 align="center">Hi 👋, I'm Victor Adomako</h1>
-<h3 align="center">Frontend Developer | ALX ProDev Learner | Problem Solver</h3>
+<h3 align="center">Frontend Developer | ALX ProDev Learner</h3>
 
 ---
 
@@ -42,7 +42,7 @@ I love exploring how **technology simplifies life and creates real impact**.
 ## 📌 Pinned Projects  
 
 <p align="center">
-  <a href="https://github.com/{{YOUR_USERNAME}}/dishdiscover">
+  <a href="https://github.com//airbnb-clone-project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username={{YOUR_USERNAME}}&repo=dishdiscover&theme=tokyonight" />
   </a>
   <a href="https://github.com/{{YOUR_USERNAME}}/fitness-tracker">
@@ -58,8 +58,25 @@ I love exploring how **technology simplifies life and creates real impact**.
 
 ---
 
-### 🚀 Upcoming Project  
-*(Placeholder for your next project — showcase it here!)*  
+## 📊 GitHub Stats  
+
+<p align="center">
+  <a href="https://github.com/victor20-tech">
+    <img src="https://github-readme-stats.vercel.app/api?username=victor20-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/{{YOUR_USERNAME}}">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=victor20-tech&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/victor20-tech">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor20-tech&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
@@ -71,22 +88,6 @@ I’d love to collaborate on **real-world impact projects**, such as:
 - 🏪 **Small business solutions** that simplify operations  
 
 Teamwork sharpens my **technical skills** while strengthening **collaboration & problem-solving**.  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username={{YOUR_GITHUB_USERNAME}}&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user={{YOUR_GITHUB_USERNAME}}&theme=tokyonight" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={{YOUR_GITHUB_USERNAME}}&layout=compact&theme=tokyonight" alt="Top languages" />
-</p>
 
 ---
 
@@ -104,7 +105,7 @@ Teamwork sharpens my **technical skills** while strengthening **collaboration & 
   <a href="mailto:victoradomako10@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=fff" alt="Email" />
   </a>
-  <a href="">
+  <a href="https://linkedin.com/in/victoradomako">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff" alt="LinkedIn" />
   </a>
 </p>
